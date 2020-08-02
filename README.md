@@ -1,1 +1,0 @@
-# Note for Deep Learning
